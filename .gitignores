@@ -1,0 +1,6 @@
+.vscode/*
+__pycache__/*
+Embaddings.index
+system_dir_metadata.json
+metadata.json
+.env
